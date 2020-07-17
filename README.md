@@ -26,7 +26,6 @@ deve retornar uma lista com os numeros ordenados pela quantidade de vezes que el
 Neste desafio você vai aprender:
 
 - Django Rest Framework
-  - Serialization
   - Requests and responses
   - Function based views
   - Viewsets and routers
