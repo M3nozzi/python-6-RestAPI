@@ -1,0 +1,4 @@
+__pycache__
+.pytest_cache
+api/_pycache_/
+stdout.txt
